@@ -1,0 +1,24 @@
+body {
+	font-family: sans-serif;
+}
+.bg{
+    width: 100%;
+    height: auto;
+}
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
+* {
+    margin: 0; 
+    list-style-type: none;
+    text-decoration: none;
+}
+.wrapper {
+    width: 60%;
+    margin: 0 auto;
+    padding: 5px;
+}
+.list, li {
+    padding-bottom: 5px;
+}
